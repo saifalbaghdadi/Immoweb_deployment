@@ -24,5 +24,6 @@ An API published by [@saifalbaghdadi](https://www.linkedin.com/in/saif-malkshahi
 GET
 
 -/predict
+
 POST
 
