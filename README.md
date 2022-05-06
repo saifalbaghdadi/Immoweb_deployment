@@ -3,7 +3,7 @@
 # property_prediction_api
 A Flask API that predict properties's price with lineer regression.
 
-An API published by [@saifalbaghdadi](https://www.linkedin.com/in/saif-malkshahi/) on [Heroku](https://saif99.herokuapp.com/).
+An API published by [@saifalbaghdadi](https://www.linkedin.com/in/saif-malkshahi/) and APP on [Heroku](https://saif99.herokuapp.com/predict).
 
 #### Specification
 ```
