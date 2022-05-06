@@ -7,7 +7,11 @@ app = Flask(__name__)
 
 model = pickle.load(open('./data/model.pkl', 'rb'))
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/')
+def hello():
+    return "hi"
+
+@app.route('/pr', methods=['GET', 'POST'])
 def main():
     if request.method == "POST":
         
