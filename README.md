@@ -19,5 +19,10 @@ An API published by [@saifalbaghdadi](https://www.linkedin.com/in/saif-malkshahi
 - ` pip install -r requirements.txt`
 - ` python app.py`
 
+#### API
+-/
+GET
 
+-/predict
+POST
 

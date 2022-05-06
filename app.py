@@ -9,9 +9,9 @@ model = pickle.load(open('./data/model.pkl', 'rb'))
 
 @app.route('/')
 def hello():
-    return "hi"
+    return "Im alive"
 
-@app.route('/pr', methods=['GET', 'POST'])
+@app.route('/predict', methods=['GET', 'POST'])
 def main():
     if request.method == "POST":
         
