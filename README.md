@@ -82,11 +82,13 @@ Here is where the `POST` and `GET` requests are processed.
 
 
 
-```
+
 
 ## Usage
+
+```
   
-For the predictions, send a `POST` request to https://immoanderlecht.herokuapp.com/predict with the following parameters:
+For the predictions, send a `POST` request to https://saif99.herokuapp.com/predict with the following parameters:
   ```
   
   
