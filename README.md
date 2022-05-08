@@ -1,4 +1,3 @@
-# challenge_API_deployment
 
 ## property prediction api
 A Flask API that predict properties's price with lineer regression.
