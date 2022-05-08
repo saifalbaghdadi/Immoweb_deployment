@@ -36,6 +36,27 @@ pip install -r requirement.txt
 - Scikit-learn
 ```
 
+## User interface
+
+1. When you enter on APP in [Heroku](https://saif99.herokuapp.com/).
+
+* It should show you (I'm alive)
+
+2. Add ( /predict)
+
+
+* You will move to the API interface [Heroku](https://saif99.herokuapp.com/predict).
+
+3. User interface :
+* Post_Code (The city where you want to search for a house/Apartment).
+* Rooms (Number of the rooms).
+* area (Total land area).
+* Garden ( Do you want a house with a garden: If Yes add ( 1 ) / if No add ( -1 )).
+* Terrace ( Do you want a house with Terrace: If Yes add ( 1 ) / if No add ( -1 )).
+
+* When you press RUN, the predicted price will appear to you
+
+
 ## How it works
 1. Processor  
 First, the data are cleaned. That means that we drop all the entirely empty rows, string values
@@ -58,30 +79,6 @@ The data is checked to see if there is any error in the format or/and type, then
 
 4. app.py  
 Here is where the `POST` and `GET` requests are processed.   
-
-# The pipeline
-
-1. When you enter on APP in [Heroku](https://saif99.herokuapp.com/).
-
-#### It should show you (I'm alive)
-
-2. Add ( /predict)
-
-
-#### You will go to the API interface [Heroku](https://saif99.herokuapp.com/predict).
-
-3. User interface :
-* Post_Code (The city where you want to search for a house/Apartment).
-* Rooms (Number of the rooms).
-* area (Total land area).
-* Garden ( Do you want a house with a garden: If Yes add ( 1 ) / if No add ( -1 )).
-* Terrace ( Do you want a house with Terrace: If Yes add ( 1 ) / if No add ( -1 )).
-
-* When you press RUN, the predicted price will appear to you
-
-
-
-
 
 
 ## Usage
