@@ -3,7 +3,6 @@
 A Flask API that predict properties's price with lineer regression.
 Data scraping for [immoweb](https://www.immoweb.be/en) in Belgium
 
-
 An API published by [@saifalbaghdadi](https://www.linkedin.com/in/saif-malkshahi/) and you can find my Frist APP on [Heroku](https://saif99.herokuapp.com/predict).
 
 
