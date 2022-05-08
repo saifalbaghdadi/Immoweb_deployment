@@ -1,6 +1,6 @@
 # challenge_API_deployment
 
-## property prediction api (immoweb)
+## property prediction api
 A Flask API that predict properties's price with lineer regression.
 Data scraping for [immoweb](https://www.immoweb.be/en) in Belgium
 
