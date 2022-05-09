@@ -38,12 +38,12 @@ pip install -r requirement.txt
 
 1. When you enter on APP in [Heroku](https://saif99.herokuapp.com/).
 
-* It should show you (I'm alive)
+      It should show you (I'm alive)
 
 2. Add ( /predict)
 
 
-* You will move to the API interface [Heroku](https://saif99.herokuapp.com/predict).
+      You will move to the API interface [Heroku](https://saif99.herokuapp.com/predict).
 
 3. User interface :
 * Post_Code (The city where you want to search for a house/Apartment).
@@ -54,6 +54,8 @@ pip install -r requirement.txt
 
 * When you press RUN, the predicted price will appear to you
 
+<img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/predict.png" width="600px" data-canonical- style="max-width: 250%">
+<br>
 
 ## How it works
 1. Processor  
