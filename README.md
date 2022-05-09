@@ -55,7 +55,6 @@ pip install -r requirement.txt
 * When you press RUN, the predicted price will appear to you
 
 <img align="center" alt="PNG" src="https://raw.githubusercontent.com/saifalbaghdadi/saifalbaghdadi/development/img/predict.png" width="600px" data-canonical- style="max-width: 250%">
-<br>
 
 ## How it works
 1. Processor  
